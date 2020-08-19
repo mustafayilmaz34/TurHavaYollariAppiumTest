@@ -1,0 +1,157 @@
+{"logLevel":"debug","message":"multithreading is set to false"}
+{"logLevel":"debug","message":"Using reflection to scan dependencies for gauge implementations..."}
+{"logLevel":"debug","message":"gauge-java took 1274milliseconds to load and scan. This should be less than 'runner_connection_timeout' config value."}
+{"logLevel":"debug","message":"run 'gauge config runner_connection_timeout' and verify that it is < 1274"}
+{"logLevel":"debug","message":"starting gRPC server..."}
+{"logLevel":"debug","message":"started gRPC server on port 50584"}
+{"logLevel":"info","message":"Listening on port:50584"}
+{"logLevel":"debug","message":"Scanning packages for steps"}
+{"logLevel":"debug","message":"Comparing 'com.testinium.BaseStep.kayitBtn' and 'com.testinium.BaseStep.kayitBtn'"}
+{"logLevel":"debug","message":"Found ikinci kayitt in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.testinium.BaseStep.eMail1' and 'com.testinium.BaseStep.eMail1'"}
+{"logLevel":"debug","message":"Found İkinci yolcu e-posta gir in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.testinium.BaseStep.tcGir' and 'com.testinium.BaseStep.tcGir'"}
+{"logLevel":"debug","message":"Found TC giriniz in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.testinium.BaseStep.ucusYonu' and 'com.testinium.BaseStep.ucusYonu'"}
+{"logLevel":"debug","message":"Found yon secimi in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.testinium.BaseStep.veriAlmaBtn' and 'com.testinium.BaseStep.veriAlmaBtn'"}
+{"logLevel":"debug","message":"Found Üye kayıt verilerini alma in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.testinium.BaseStep.ucusTarihi' and 'com.testinium.BaseStep.ucusTarihi'"}
+{"logLevel":"debug","message":"Found Uçuş Tarihi Seç in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.testinium.BaseStep.nereden1' and 'com.testinium.BaseStep.nereden1'"}
+{"logLevel":"debug","message":"Found uçuş nerden in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.testinium.BaseStep.soyIsimGir' and 'com.testinium.BaseStep.soyIsimGir'"}
+{"logLevel":"debug","message":"Found Soyisim giriniz in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.testinium.BaseStep.waitBySecond1' and 'com.testinium.BaseStep.waitBySecond1'"}
+{"logLevel":"debug","message":"Found bekle {} in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.testinium.BaseStep.ucusKontrolu' and 'com.testinium.BaseStep.ucusKontrolu'"}
+{"logLevel":"debug","message":"Found uçuş kontrolü in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.testinium.BaseStep.tcGir1' and 'com.testinium.BaseStep.tcGir1'"}
+{"logLevel":"debug","message":"Found İkinci yolcu TC giriniz in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.testinium.BaseStep.lokasyon' and 'com.testinium.BaseStep.lokasyon'"}
+{"logLevel":"debug","message":"Found bilet al in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.testinium.BaseStep.uyrukSec' and 'com.testinium.BaseStep.uyrukSec'"}
+{"logLevel":"debug","message":"Found Uyruk Seçiniz in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.testinium.BaseStep.okBtn' and 'com.testinium.BaseStep.okBtn'"}
+{"logLevel":"debug","message":"Found ikinci kayit in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.testinium.BaseStep.dogumGunu' and 'com.testinium.BaseStep.dogumGunu'"}
+{"logLevel":"debug","message":"Found dogum Gunu Gir {} in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.testinium.BaseStep.yolcuBilgileri' and 'com.testinium.BaseStep.yolcuBilgileri'"}
+{"logLevel":"debug","message":"Found yolcu bilgileri in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.testinium.BaseStep.isimGir1' and 'com.testinium.BaseStep.isimGir1'"}
+{"logLevel":"debug","message":"Found İkinci yolcu İsim giriniz in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.testinium.BaseStep.soyIsimGir1' and 'com.testinium.BaseStep.soyIsimGir1'"}
+{"logLevel":"debug","message":"Found İkinci yolcu Soyisim giriniz in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.testinium.BaseStep.yolcuSayisi' and 'com.testinium.BaseStep.yolcuSayisi'"}
+{"logLevel":"debug","message":"Found Yolcu sayısı artırma in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.testinium.BaseStep.ucusSec' and 'com.testinium.BaseStep.ucusSec'"}
+{"logLevel":"debug","message":"Found uçuş seç in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.testinium.BaseStep.ucusAra' and 'com.testinium.BaseStep.ucusAra'"}
+{"logLevel":"debug","message":"Found uçuş ara in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.testinium.BaseStep.eMail' and 'com.testinium.BaseStep.eMail'"}
+{"logLevel":"debug","message":"Found e-posta gir in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.testinium.BaseStep.cikisIslemleri' and 'com.testinium.BaseStep.cikisIslemleri'"}
+{"logLevel":"debug","message":"Found Çıkış işlemlerini yap ve bitir in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.testinium.BaseStep.cinSec' and 'com.testinium.BaseStep.cinSec'"}
+{"logLevel":"debug","message":"Found Cinsiyet Seçimi in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.testinium.BaseStep.kaydetBtn' and 'com.testinium.BaseStep.kaydetBtn'"}
+{"logLevel":"debug","message":"Found kaydet in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.testinium.BaseStep.isimGir' and 'com.testinium.BaseStep.isimGir'"}
+{"logLevel":"debug","message":"Found İsim giriniz in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.testinium.BaseStep.nereye1' and 'com.testinium.BaseStep.nereye1'"}
+{"logLevel":"debug","message":"Found uçus nereye in current project scope."}
+{"logLevel":"debug","message":"Scanning packages for hooks"}
+{"logLevel":"debug","message":"Scanned steps (using static parsing + reflections): "}
+{"logLevel":"debug","message":"\tyolcu bilgileri : public void yolcuBilgileri()"}
+{"logLevel":"debug","message":"\tCinsiyet Seçimi : public void cinSec()"}
+{"logLevel":"debug","message":"\tuçuş kontrolü : public void ucusKontrolu() throws Exception"}
+{"logLevel":"debug","message":"\tdogum Gunu Gir {} : public void dogumGunu(String dogumGunu)"}
+{"logLevel":"debug","message":"\tİkinci yolcu Soyisim giriniz : public void soyIsimGir1() throws Exception"}
+{"logLevel":"debug","message":"\tSoyisim giriniz : public void soyIsimGir() throws Exception"}
+{"logLevel":"debug","message":"\tuçuş nerden : public void nereden1() throws Exception"}
+{"logLevel":"debug","message":"\tİkinci yolcu e-posta gir : public void eMail1() throws Exception"}
+{"logLevel":"debug","message":"\tTC giriniz : public void tcGir() throws Exception"}
+{"logLevel":"debug","message":"\tÜye kayıt verilerini alma : public void veriAlmaBtn()"}
+{"logLevel":"debug","message":"\tbekle {} : public void waitBySecond1(ınt seconds)"}
+{"logLevel":"debug","message":"\tuçus nereye : public void nereye1() throws Exception"}
+{"logLevel":"debug","message":"\tİkinci yolcu İsim giriniz : public void isimGir1() throws Exception"}
+{"logLevel":"debug","message":"\tikinci kayitt : public void kayitBtn()"}
+{"logLevel":"debug","message":"\tuçuş seç : public void ucusSec() throws InterruptedException"}
+{"logLevel":"debug","message":"\tbilet al : public void lokasyon()"}
+{"logLevel":"debug","message":"\tUyruk Seçiniz : public void uyrukSec()"}
+{"logLevel":"debug","message":"\tİkinci yolcu TC giriniz : public void tcGir1() throws Exception"}
+{"logLevel":"debug","message":"\tUçuş Tarihi Seç : public void ucusTarihi()"}
+{"logLevel":"debug","message":"\tikinci kayit : public void okBtn()"}
+{"logLevel":"debug","message":"\tİsim giriniz : public void isimGir() throws Exception"}
+{"logLevel":"debug","message":"\tÇıkış işlemlerini yap ve bitir : public void cikisIslemleri() throws InterruptedException"}
+{"logLevel":"debug","message":"\te-posta gir : public void eMail() throws Exception"}
+{"logLevel":"debug","message":"\tkaydet : public void kaydetBtn()"}
+{"logLevel":"debug","message":"\tYolcu sayısı artırma : public void yolcuSayisi()"}
+{"logLevel":"debug","message":"\tyon secimi : public void ucusYonu()"}
+{"logLevel":"debug","message":"\tuçuş ara : public void ucusAra()"}
+!!!!!!!!!!!!!!!!!!!!!!!!!!!Test baslıyor!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+2020-08-20 00:50:59 INFO  BaseTest:41 beforeScenario - Local Browser
+Ağu 20, 2020 12:51:13 AM io.appium.java_client.remote.AppiumCommandExecutor$1 lambda$0
+INFO: Detected dialect: W3C
+{"logLevel":"debug","message":"Executing 'bekle {}' using 'class com.testinium.BaseStep.waitBySecond1"}
+{"logLevel":"debug","message":"Executing 'bilet al' using 'class com.testinium.BaseStep.lokasyon"}
+{"logLevel":"debug","message":"Executing 'bekle {}' using 'class com.testinium.BaseStep.waitBySecond1"}
+{"logLevel":"debug","message":"Executing 'yon secimi' using 'class com.testinium.BaseStep.ucusYonu"}
+{"logLevel":"debug","message":"Executing 'bekle {}' using 'class com.testinium.BaseStep.waitBySecond1"}
+{"logLevel":"debug","message":"Executing 'uçuş nerden' using 'class com.testinium.BaseStep.nereden1"}
+{"logLevel":"debug","message":"Executing 'bekle {}' using 'class com.testinium.BaseStep.waitBySecond1"}
+{"logLevel":"debug","message":"Executing 'uçus nereye' using 'class com.testinium.BaseStep.nereye1"}
+{"logLevel":"debug","message":"Executing 'bekle {}' using 'class com.testinium.BaseStep.waitBySecond1"}
+{"logLevel":"debug","message":"Executing 'Yolcu sayısı artırma' using 'class com.testinium.BaseStep.yolcuSayisi"}
+{"logLevel":"debug","message":"Executing 'bekle {}' using 'class com.testinium.BaseStep.waitBySecond1"}
+{"logLevel":"debug","message":"Executing 'uçuş ara' using 'class com.testinium.BaseStep.ucusAra"}
+{"logLevel":"debug","message":"Executing 'bekle {}' using 'class com.testinium.BaseStep.waitBySecond1"}
+{"logLevel":"debug","message":"Executing 'Uçuş Tarihi Seç' using 'class com.testinium.BaseStep.ucusTarihi"}
+{"logLevel":"debug","message":"Executing 'bekle {}' using 'class com.testinium.BaseStep.waitBySecond1"}
+{"logLevel":"debug","message":"Executing 'uçuş seç' using 'class com.testinium.BaseStep.ucusSec"}
+{"logLevel":"debug","message":"Executing 'bekle {}' using 'class com.testinium.BaseStep.waitBySecond1"}
+{"logLevel":"debug","message":"Executing 'yolcu bilgileri' using 'class com.testinium.BaseStep.yolcuBilgileri"}
+{"logLevel":"debug","message":"Executing 'bekle {}' using 'class com.testinium.BaseStep.waitBySecond1"}
+{"logLevel":"debug","message":"Executing 'İsim giriniz' using 'class com.testinium.BaseStep.isimGir"}
+{"logLevel":"debug","message":"Executing 'bekle {}' using 'class com.testinium.BaseStep.waitBySecond1"}
+{"logLevel":"debug","message":"Executing 'Soyisim giriniz' using 'class com.testinium.BaseStep.soyIsimGir"}
+{"logLevel":"debug","message":"Executing 'bekle {}' using 'class com.testinium.BaseStep.waitBySecond1"}
+{"logLevel":"debug","message":"Executing 'Cinsiyet Seçimi' using 'class com.testinium.BaseStep.cinSec"}
+{"logLevel":"debug","message":"Executing 'bekle {}' using 'class com.testinium.BaseStep.waitBySecond1"}
+{"logLevel":"debug","message":"Executing 'dogum Gunu Gir {}' using 'class com.testinium.BaseStep.dogumGunu"}
+{"logLevel":"debug","message":"Executing 'bekle {}' using 'class com.testinium.BaseStep.waitBySecond1"}
+{"logLevel":"debug","message":"Executing 'e-posta gir' using 'class com.testinium.BaseStep.eMail"}
+{"logLevel":"debug","message":"Executing 'bekle {}' using 'class com.testinium.BaseStep.waitBySecond1"}
+{"logLevel":"debug","message":"Executing 'Uyruk Seçiniz' using 'class com.testinium.BaseStep.uyrukSec"}
+{"logLevel":"debug","message":"Executing 'bekle {}' using 'class com.testinium.BaseStep.waitBySecond1"}
+{"logLevel":"debug","message":"Executing 'TC giriniz' using 'class com.testinium.BaseStep.tcGir"}
+{"logLevel":"debug","message":"Executing 'bekle {}' using 'class com.testinium.BaseStep.waitBySecond1"}
+{"logLevel":"debug","message":"Executing 'Üye kayıt verilerini alma' using 'class com.testinium.BaseStep.veriAlmaBtn"}
+{"logLevel":"debug","message":"Executing 'bekle {}' using 'class com.testinium.BaseStep.waitBySecond1"}
+{"logLevel":"debug","message":"Executing 'kaydet' using 'class com.testinium.BaseStep.kaydetBtn"}
+{"logLevel":"debug","message":"Executing 'bekle {}' using 'class com.testinium.BaseStep.waitBySecond1"}
+{"logLevel":"debug","message":"Executing 'ikinci kayit' using 'class com.testinium.BaseStep.okBtn"}
+{"logLevel":"debug","message":"Executing 'bekle {}' using 'class com.testinium.BaseStep.waitBySecond1"}
+{"logLevel":"debug","message":"Executing 'ikinci kayitt' using 'class com.testinium.BaseStep.kayitBtn"}
+{"logLevel":"debug","message":"Executing 'bekle {}' using 'class com.testinium.BaseStep.waitBySecond1"}
+{"logLevel":"debug","message":"Executing 'İkinci yolcu İsim giriniz' using 'class com.testinium.BaseStep.isimGir1"}
+{"logLevel":"debug","message":"Executing 'bekle {}' using 'class com.testinium.BaseStep.waitBySecond1"}
+{"logLevel":"debug","message":"Executing 'İkinci yolcu Soyisim giriniz' using 'class com.testinium.BaseStep.soyIsimGir1"}
+{"logLevel":"debug","message":"Executing 'bekle {}' using 'class com.testinium.BaseStep.waitBySecond1"}
+{"logLevel":"debug","message":"Executing 'Cinsiyet Seçimi' using 'class com.testinium.BaseStep.cinSec"}
+{"logLevel":"debug","message":"Executing 'bekle {}' using 'class com.testinium.BaseStep.waitBySecond1"}
+{"logLevel":"debug","message":"Executing 'dogum Gunu Gir {}' using 'class com.testinium.BaseStep.dogumGunu"}
+{"logLevel":"debug","message":"Executing 'bekle {}' using 'class com.testinium.BaseStep.waitBySecond1"}
+{"logLevel":"debug","message":"Executing 'İkinci yolcu e-posta gir' using 'class com.testinium.BaseStep.eMail1"}
+{"logLevel":"debug","message":"Executing 'bekle {}' using 'class com.testinium.BaseStep.waitBySecond1"}
+{"logLevel":"debug","message":"Executing 'Uyruk Seçiniz' using 'class com.testinium.BaseStep.uyrukSec"}
+{"logLevel":"debug","message":"Executing 'bekle {}' using 'class com.testinium.BaseStep.waitBySecond1"}
+{"logLevel":"debug","message":"Executing 'İkinci yolcu TC giriniz' using 'class com.testinium.BaseStep.tcGir1"}
+{"logLevel":"debug","message":"Executing 'bekle {}' using 'class com.testinium.BaseStep.waitBySecond1"}
+{"logLevel":"debug","message":"Executing 'Üye kayıt verilerini alma' using 'class com.testinium.BaseStep.veriAlmaBtn"}
+{"logLevel":"debug","message":"Executing 'bekle {}' using 'class com.testinium.BaseStep.waitBySecond1"}
+{"logLevel":"debug","message":"Executing 'kaydet' using 'class com.testinium.BaseStep.kaydetBtn"}
+{"logLevel":"debug","message":"Executing 'bekle {}' using 'class com.testinium.BaseStep.waitBySecond1"}
+{"logLevel":"debug","message":"Executing 'Çıkış işlemlerini yap ve bitir' using 'class com.testinium.BaseStep.cikisIslemleri"}
+{"logLevel":"debug","message":"Executing 'bekle {}' using 'class com.testinium.BaseStep.waitBySecond1"}

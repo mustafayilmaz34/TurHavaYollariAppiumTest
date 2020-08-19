@@ -1,0 +1,16 @@
+Created by TESTINIUM on 18.08.2020
+
+This is a concept file with following syntax for each concept.
+# uçuş bilgileri ve uçuş arama
+* bekle "2"
+* yon secimi
+* bekle "2"
+* uçuş nerden
+* bekle "2"
+* uçus nereye
+* bekle "2"
+* Yolcu sayısı artırma
+* bekle "2"
+* uçuş ara
+* bekle "2"
+* Uçuş Tarihi Seç

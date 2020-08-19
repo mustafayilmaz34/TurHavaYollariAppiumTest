@@ -1,0 +1,25 @@
+Created by TESTINIUM on 18.08.2020
+
+This is a concept file with following syntax for each concept.
+# ikinci yolcu bilgisi
+* ikinci kayit
+* bekle "2"
+* ikinci kayitt
+* bekle "2"
+* İkinci yolcu İsim giriniz
+* bekle "2"
+* İkinci yolcu Soyisim giriniz
+* bekle "2"
+* Cinsiyet Seçimi
+* bekle "2"
+* dogum Gunu Gir "19-07-1996"
+* bekle "2"
+* İkinci yolcu e-posta gir
+* bekle "2"
+* Uyruk Seçiniz
+* bekle "2"
+* İkinci yolcu TC giriniz
+* bekle "2"
+* Üye kayıt verilerini alma
+* bekle "2"
+* kaydet
