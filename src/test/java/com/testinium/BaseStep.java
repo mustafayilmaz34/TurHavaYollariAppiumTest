@@ -44,7 +44,7 @@ public class BaseStep extends BaseTest {
     }
 
     @Step("uçuş nerden")
-    public void nereden1() throws Exception {
+    public void nereden1() throws InterruptedException {
         dosyaOkuma();
         appiumDriver.findElement(By.id("com.turkishairlines.mobile:id/frDashboard_tvFromCode")).click();
         MobileElement el2 = (MobileElement) appiumDriver.findElementById("com.turkishairlines.mobile:id/frAirportSelection_etSearch");
@@ -214,7 +214,7 @@ public class BaseStep extends BaseTest {
     }
 
     public void dosyaOkuma() {
-        String file = "C:\\Users\\testinium\\Desktop\\TurHavaYollariAppiumTest\\kayitlar.csv";
+        String file = "kayitlar.csv";
         BufferedReader buffer = null;
         String br = "";
         String split = ";";

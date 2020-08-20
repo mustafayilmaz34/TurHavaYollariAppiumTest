@@ -6,14 +6,16 @@ To execute this specification, use `mvn test`
 
 Türk Hava Yolları Test
 -----------
-* bekle "5"
+* bekle "2"
 * bilet al
 * uçuş bilgileri ve uçuş arama
-* bekle "5"
+* bekle "2"
+* Uçuş Tarihi Seç
+* bekle "2"
 * uçuş seç
-* bekle "5"
+* bekle "2"
 * birinci yolcu bilgisi
-* bekle "5"
+* bekle "2"
 * ikinci yolcu bilgisi
-* bekle "5"
+* bekle "2"
 * Çıkış işlemlerini yap ve bitir

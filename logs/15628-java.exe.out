@@ -3,11 +3,11 @@
 log4j:WARN No appenders could be found for logger (org.reflections.Reflections).
 log4j:WARN Please initialize the log4j system properly.
 log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
-{"logLevel":"debug","message":"gauge-java took 882milliseconds to load and scan. This should be less than 'runner_connection_timeout' config value."}
-{"logLevel":"debug","message":"run 'gauge config runner_connection_timeout' and verify that it is < 882"}
+{"logLevel":"debug","message":"gauge-java took 849milliseconds to load and scan. This should be less than 'runner_connection_timeout' config value."}
+{"logLevel":"debug","message":"run 'gauge config runner_connection_timeout' and verify that it is < 849"}
 {"logLevel":"debug","message":"starting gRPC server..."}
-{"logLevel":"debug","message":"started gRPC server on port 61390"}
-{"logLevel":"info","message":"Listening on port:61390"}
+{"logLevel":"debug","message":"started gRPC server on port 61099"}
+{"logLevel":"info","message":"Listening on port:61099"}
 {"logLevel":"debug","message":"Scanning packages for steps"}
 {"logLevel":"debug","message":"Comparing 'com.testinium.BaseStep.kayitBtn' and 'com.testinium.BaseStep.kayitBtn'"}
 {"logLevel":"debug","message":"Found ikinci kayitt in current project scope."}
@@ -94,35 +94,3 @@ log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more in
 {"logLevel":"debug","message":"\tuçuş ara : public void ucusAra()"}
 !!!!!!!!!!!!!!!!!!!!!!!!!!!Test baslıyor!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-Ağu 20, 2020 12:20:01 PM io.appium.java_client.remote.AppiumCommandExecutor$1 lambda$0
-INFO: Detected dialect: W3C
-{"logLevel":"debug","message":"Executing 'bekle {}' using 'class com.testinium.BaseStep.waitBySecond1"}
-{"logLevel":"debug","message":"Executing 'bilet al' using 'class com.testinium.BaseStep.lokasyon"}
-{"logLevel":"debug","message":"Executing 'bekle {}' using 'class com.testinium.BaseStep.waitBySecond1"}
-{"logLevel":"debug","message":"Executing 'yon secimi' using 'class com.testinium.BaseStep.ucusYonu"}
-{"logLevel":"debug","message":"Executing 'bekle {}' using 'class com.testinium.BaseStep.waitBySecond1"}
-{"logLevel":"debug","message":"Executing 'uçuş nerden' using 'class com.testinium.BaseStep.nereden1"}
-java.io.FileNotFoundException: C:\Users\testinium\Desktop\TurHavaYollariAppiumTest\kayitlar.csv (Sistem belirtilen dosyayı bulamıyor)
-	at java.io.FileInputStream.open0(Native Method)
-	at java.io.FileInputStream.open(FileInputStream.java:195)
-	at java.io.FileInputStream.<init>(FileInputStream.java:138)
-	at java.io.FileInputStream.<init>(FileInputStream.java:93)
-	at java.io.FileReader.<init>(FileReader.java:58)
-	at com.testinium.BaseStep.dosyaOkuma(BaseStep.java:222)
-	at com.testinium.BaseStep.nereden1(BaseStep.java:48)
-	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
-	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
-	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
-	at java.lang.reflect.Method.invoke(Method.java:498)
-	at com.thoughtworks.gauge.execution.MethodExecutor.execute(MethodExecutor.java:28)
-	at com.thoughtworks.gauge.execution.StepExecutionStage.executeStepMethod(StepExecutionStage.java:66)
-	at com.thoughtworks.gauge.execution.StepExecutionStage.executeStep(StepExecutionStage.java:59)
-	at com.thoughtworks.gauge.execution.StepExecutionStage.execute(StepExecutionStage.java:41)
-	at com.thoughtworks.gauge.execution.AbstractExecutionStage.executeNext(AbstractExecutionStage.java:14)
-	at com.thoughtworks.gauge.execution.HookExecutionStage.execute(HookExecutionStage.java:33)
-	at com.thoughtworks.gauge.execution.ExecutionPipeline.start(ExecutionPipeline.java:19)
-	at com.thoughtworks.gauge.processor.ExecuteStepProcessor.process(ExecuteStepProcessor.java:41)
-	at com.thoughtworks.gauge.RunnerServiceHandler.lambda$executeStep$7(RunnerServiceHandler.java:166)
-	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
-	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
-	at java.lang.Thread.run(Thread.java:748)

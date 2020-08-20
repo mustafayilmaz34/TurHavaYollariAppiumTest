@@ -3,11 +3,11 @@
 log4j:WARN No appenders could be found for logger (org.reflections.Reflections).
 log4j:WARN Please initialize the log4j system properly.
 log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
-{"logLevel":"debug","message":"gauge-java took 882milliseconds to load and scan. This should be less than 'runner_connection_timeout' config value."}
-{"logLevel":"debug","message":"run 'gauge config runner_connection_timeout' and verify that it is < 882"}
+{"logLevel":"debug","message":"gauge-java took 1753milliseconds to load and scan. This should be less than 'runner_connection_timeout' config value."}
+{"logLevel":"debug","message":"run 'gauge config runner_connection_timeout' and verify that it is < 1753"}
 {"logLevel":"debug","message":"starting gRPC server..."}
-{"logLevel":"debug","message":"started gRPC server on port 61390"}
-{"logLevel":"info","message":"Listening on port:61390"}
+{"logLevel":"debug","message":"started gRPC server on port 60909"}
+{"logLevel":"info","message":"Listening on port:60909"}
 {"logLevel":"debug","message":"Scanning packages for steps"}
 {"logLevel":"debug","message":"Comparing 'com.testinium.BaseStep.kayitBtn' and 'com.testinium.BaseStep.kayitBtn'"}
 {"logLevel":"debug","message":"Found ikinci kayitt in current project scope."}
@@ -94,7 +94,7 @@ log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more in
 {"logLevel":"debug","message":"\tuçuş ara : public void ucusAra()"}
 !!!!!!!!!!!!!!!!!!!!!!!!!!!Test baslıyor!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-Ağu 20, 2020 12:20:01 PM io.appium.java_client.remote.AppiumCommandExecutor$1 lambda$0
+Ağu 20, 2020 12:13:50 PM io.appium.java_client.remote.AppiumCommandExecutor$1 lambda$0
 INFO: Detected dialect: W3C
 {"logLevel":"debug","message":"Executing 'bekle {}' using 'class com.testinium.BaseStep.waitBySecond1"}
 {"logLevel":"debug","message":"Executing 'bilet al' using 'class com.testinium.BaseStep.lokasyon"}
